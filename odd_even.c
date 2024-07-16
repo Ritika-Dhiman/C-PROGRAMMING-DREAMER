@@ -19,7 +19,7 @@ int odd_even(){
     }
 
     printf("Total Even : %d\n",count_even);
-    printf("Total Odd : %d\n",count_even);
+    printf("Total Odd : %d\n",count_odd);
 }
 
 int main(){
